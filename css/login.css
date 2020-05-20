@@ -161,12 +161,12 @@ iframe {
 
 /*//////////////////////////////////////////////////////////////////
 [ login ]*/
-.limiter {
+.main {
   width: 100%;
   margin: 0 auto;
 }
 
-.container-login100 {
+.login {
   width: 100%;  
   min-height: 100vh;
   display: -webkit-box;
@@ -226,11 +226,11 @@ iframe {
 /*------------------------------------------------------------------
 [ Form ]*/
 
-.login100-form {
+.login-form {
   width: 100%;
 }
 
-.login100-form-title {
+.login-form-title {
   display: block;
   font-family: Poppins-Bold;
   font-size: 39px;
@@ -348,7 +348,7 @@ iframe {
 
 /*------------------------------------------------------------------
 [ Button ]*/
-.container-login100-form-btn {
+.container-login-form-btn {
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
